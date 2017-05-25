@@ -1,6 +1,5 @@
-# Radius_CC
-Radius Intelligence coding challenge
-Submit by Kristi Kwon
+# Radius Intelligence Coding Challenge  
+Submit by Kristi Kwon  
 
-Code (in Jupyter Notebook): [here](https://github.com/kristikwon/Radius_CC/Radius_Kristi_Kwon.jupyter)
-Report: [here](https://github.com/kristikwon/Radius_CC/Radius_Report_Kristi_Kwon.doc)
+Code (in Jupyter Notebook): [here](https://github.com/kristikwon/Radius_CC/Radius_Kristi_Kwon.ipynb)  
+Report: [here](https://github.com/kristikwon/Radius_CC/Radius_Report_Kristi_Kwon.docx)  
